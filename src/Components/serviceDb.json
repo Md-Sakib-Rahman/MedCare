@@ -1,0 +1,145 @@
+{
+    "services": [
+      {
+        "name": "Home Nursing Care",
+        "category": "Home Healthcare",
+        "price": 200,
+        "availability": "Available",
+        "image": "https://thumbs.dreamstime.com/b/asian-caregiver-woman-nurse-training-senior-lifting-dumbbell-arm-exercise-therapy-rehabilitation-living-room-339469302.jpg"
+      },
+      {
+        "name": "Physical Therapy at Home",
+        "category": "Home Healthcare",
+        "price": 150,
+        "availability": "Limited",
+        "image": "https://st2.depositphotos.com/1518767/7635/i/450/depositphotos_76350519-stock-photo-doctor-examining-her-patient-leg.jpg"
+      },
+      {
+        "name": "Elderly Care Services",
+        "category": "Home Healthcare",
+        "price": 180,
+        "availability": "Available",
+        "image": "https://media.istockphoto.com/id/1210904793/photo/friendly-asian-caretaker-talking-to-senior-patient-in-nursing-home.jpg?s=612x612&w=0&k=20&c=0f636kKyF8XTE2zkHVyj9wDmYKJ7WE4cSfHeIV-NPt8="
+      },
+      {
+        "name": "Palliative Care at Home",
+        "category": "Home Healthcare",
+        "price": 250,
+        "availability": "Unavailable",
+        "image": "https://st2.depositphotos.com/2249091/9184/i/450/depositphotos_91841138-stock-photo-visiting-grandfather-in-hospital.jpg"
+      },
+      {
+        "name": "Prenatal Care Services",
+        "category": "Maternity and Neonatal Care",
+        "price": 220,
+        "availability": "Available",
+        "image": "https://cdn.create.vista.com/api/media/small/621824458/stock-photo-professional-asian-female-doctor-obstetrician-listening-baby-heartbeat-her-stethoscope"
+      },
+      {
+        "name": "Postnatal Care Services",
+        "category": "Maternity and Neonatal Care",
+        "price": 300,
+        "availability": "Available",
+        "image": "https://cdn.create.vista.com/api/media/small/614438288/stock-photo-young-woman-applying-cream-baby-foot-while-recording-video-course"
+      },
+      {
+        "name": "Neonatal Intensive Care",
+        "category": "Maternity and Neonatal Care",
+        "price": 500,
+        "availability": "Available",
+        "image": "https://media.istockphoto.com/id/956193216/photo/unrecognizable-nurse-caressing-a-newborn-baby-in-an-incubator-while-he-sleeps.jpg?s=612x612&w=0&k=20&c=iXWFS8reQTzBwIua-X0l9A0EF2W817509zJMwLv4W5o="
+      },
+      {
+        "name": "Lactation Counseling",
+        "category": "Maternity and Neonatal Care",
+        "price": 100,
+        "availability": "Limited",
+        "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Feb5130c3-b63d-4088-add8-65276e76ba4a.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1"
+      },
+      {
+        "name": "Individual Therapy Session",
+        "category": "Mental Health Services",
+        "price": 100,
+        "availability": "Available",
+        "image": "https://media.istockphoto.com/id/1498654263/photo/young-woman-talking-to-therapist-at-session.jpg?s=612x612&w=0&k=20&c=e9wgDqYuWnfq33raROQlHimGtUtoZSda2NNF-JufFg8="
+      },
+      {
+        "name": "Group Therapy Session",
+        "category": "Mental Health Services",
+        "price": 80,
+        "availability": "Limited",
+        "image": "https://media.istockphoto.com/id/1454585686/photo/diversity-mental-health-and-group-therapy-counseling-support-meeting-healthy-conversation-and.jpg?s=612x612&w=0&k=20&c=7-kDTlCiMLzq_MM6yhnv7mZbyB7HWxM1n_JE5EkR9ZE="
+      },
+      {
+        "name": "Psychiatric Evaluation",
+        "category": "Mental Health Services",
+        "price": 250,
+        "availability": "Available",
+        "image": "https://img1.wsimg.com/isteam/stock/xrANaqN/:/cr=t:0%25,l:5.67%25,w:88.67%25,h:100%25/rs=w:600,h:451.12781954887214,cg:true"
+      },
+      {
+        "name": "Stress Management Counseling",
+        "category": "Mental Health Services",
+        "price": 120,
+        "availability": "Available",
+        "image": "https://lifeworkscc.com/wp-content/uploads/2017/06/stress-management1-1.jpg"
+      },
+      {
+        "name": "Cardiology Consultation",
+        "category": "Specialist Care",
+        "price": 250,
+        "availability": "Available",
+        "image": "https://www.shutterstock.com/image-photo/senior-man-nurse-listening-on-600nw-2475091975.jpg"
+      },
+      {
+        "name": "Neurology Consultation",
+        "category": "Specialist Care",
+        "price": 300,
+        "availability": "Available",
+        "image": "https://media.istockphoto.com/id/1297589734/photo/this-is-where-the-neurosurgeon-takes-over.jpg?s=612x612&w=0&k=20&c=JuP5qm-RS8IJi5E7mujAnSScE8zzAh9mzm44e6szI44="
+      },
+      {
+        "name": "Orthopedic Consultation",
+        "category": "Specialist Care",
+        "price": 220,
+        "availability": "Limited",
+        "image": "https://media.istockphoto.com/id/1479961383/photo/treatment-for-knee-injuries-anatomical-model-of-human-knee-joint-on-doctor-table-in.jpg?s=612x612&w=0&k=20&c=ei_PyfcDe929uORfpFR7vRgA7me-FUhFDIu1C1g6L7g="
+      },
+      {
+        "name": "Dermatology Treatment",
+        "category": "Specialist Care",
+        "price": 180,
+        "availability": "Available",
+        "image": "https://img.freepik.com/free-photo/closeup-portrait-beautiful-woman-cosmetology-therapy-beauty-salon-professional-dermatology-procedures-lifting-rejuvenation-modern-devices-healthcare_197531-2785.jpg?semt=ais_hybrid"
+      },
+      {
+        "name": "General Check-Up",
+        "category": "Primary Care",
+        "price": 50,
+        "availability": "Available",
+        "image": "https://st.depositphotos.com/1518767/3919/i/450/depositphotos_39191991-stock-photo-male-doctor-checking-blood-pressure.jpg"
+      },
+      {
+        "name": "Routine Vaccinations",
+        "category": "Primary Care",
+        "price": 75,
+        "availability": "Available",
+        "image": "https://media.istockphoto.com/id/1369620254/photo/shot-of-a-doctor-using-a-cotton-ball-on-a-little-girls-arm-while-administering-an-injection.jpg?s=612x612&w=0&k=20&c=1k44-DJxeSdtKIltzVk2tSPs19dW1EO_oeDjvlDsI3g="
+      },
+      {
+        "name": "Blood Pressure Monitoring",
+        "category": "Primary Care",
+        "price": 40,
+        "availability": "Available",
+        "image": "https://t3.ftcdn.net/jpg/02/84/77/12/360_F_284771224_JgPyhgr0CPJ9LZI4VhmwMfoGaku2w0v6.jpg"
+      },
+      {
+        "name": "Chronic Disease Management",
+        "category": "Primary Care",
+        "price": 80,
+        "availability": "Limited",
+        "image": "https://media.istockphoto.com/id/1870666052/photo/woman-taking-pills.jpg?s=612x612&w=0&k=20&c=ccLNS9eVnncryAiywLAPrSPsdjB3p1rBP_ezXZqhD5s="
+      }
+    ]
+  }
+  

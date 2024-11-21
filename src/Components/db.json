@@ -1,0 +1,225 @@
+{
+    "posts":[
+        {
+          "id": 1,
+          "name": "Dr. Emily Johnson",
+          "Designation": "Dermatologist",
+          "description": "Dr. Emily Johnson is a highly experienced Dermatologist specializing in skin care and cosmetic treatments. She currently practices at Bellevue Dermatology Clinic.",
+          "email": "emily.johnson@bellevueclinic.com",
+          "img": "https://images.pexels.com/photos/5215024/pexels-photo-5215024.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "address": "1201 112th Ave NE, Bellevue, WA 98004",
+          "phone": "206-555-1234",
+          "fee": 200
+        },
+        {
+          "id": 2,
+          "name": "Dr. Michael Smith",
+          "Designation": "Cardiologist",
+          "description": "Dr. Michael Smith is a leading Cardiologist focusing on heart health and cardiac surgery at New York Heart Center.",
+          "email": "michael.smith@nyheartcenter.com",
+          "img": "https://images.pexels.com/photos/5452293/pexels-photo-5452293.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "address": "101 Park Ave, New York, NY 10017",
+          "phone": "212-555-5678",
+          "fee": 300
+        },
+        {
+          "id": 3,
+          "name": "Dr. Sarah Brown",
+          "Designation": "Pediatrician",
+          "description": "Dr. Sarah Brown is a compassionate Pediatrician providing care for children at Austin Pediatrics.",
+          "email": "sarah.brown@austinpediatrics.com",
+          "img": "https://images.pexels.com/photos/5407252/pexels-photo-5407252.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "address": "400 W 15th St, Austin, TX 78701",
+          "phone": "512-555-9012",
+          "fee": 150
+        },
+        {
+          "id": 4,
+          "name": "Dr. James Williams",
+          "Designation": "Orthopedic Surgeon",
+          "description": "Dr. James Williams specializes in orthopedic surgery and sports injuries at Chicago Orthopedics.",
+          "email": "james.williams@chiorthopedics.com",
+          "img": "https://images.pexels.com/photos/4989179/pexels-photo-4989179.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "address": "225 E Chicago Ave, Chicago, IL 60611",
+          "phone": "312-555-3456",
+          "fee": 250
+        },
+        {
+          "id": 5,
+          "name": "Dr. Jessica Taylor",
+          "Designation": "Neurologist",
+          "description": "Dr. Jessica Taylor is an expert Neurologist treating complex neurological conditions at San Francisco Neurology Center.",
+          "email": "jessica.taylor@sfneurology.com",
+          "img": "https://images.pexels.com/photos/15752232/pexels-photo-15752232/free-photo-of-portrait-of-doctor.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "address": "350 Parnassus Ave, San Francisco, CA 94117",
+          "phone": "415-555-6789",
+          "fee": 275
+        },
+        {
+          "id": 6,
+          "name": "Dr. Matthew Davis",
+          "Designation": "Gastroenterologist",
+          "description": "Dr. Matthew Davis specializes in digestive health and practices at Boston Gastroenterology.",
+          "email": "matthew.davis@bostongastro.com",
+          "img": "https://images.pexels.com/photos/6129104/pexels-photo-6129104.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "address": "75 Francis St, Boston, MA 02115",
+          "phone": "617-555-4321",
+          "fee": 220
+        },
+        {
+          "id": 7,
+          "name": "Dr. Olivia Martinez",
+          "Designation": "Oncologist",
+          "description": "Dr. Olivia Martinez provides compassionate cancer care at Miami Oncology Center.",
+          "email": "olivia.martinez@miamioncology.com",
+          "img": "https://images.pexels.com/photos/5998507/pexels-photo-5998507.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "address": "1475 NW 12th Ave, Miami, FL 33136",
+          "phone": "305-555-7890",
+          "fee": 350
+        },
+        {
+          "id": 8,
+          "name": "Dr. Christopher Garcia",
+          "Designation": "Pulmonologist",
+          "description": "Dr. Christopher Garcia is an expert in respiratory care at Los Angeles Pulmonary Specialists.",
+          "email": "christopher.garcia@lapulmonary.com",
+          "img": "https://images.pexels.com/photos/5722163/pexels-photo-5722163.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "address": "1515 S Vermont Ave, Los Angeles, CA 90006",
+          "phone": "213-555-5678",
+          "fee": 250
+        },
+        {
+          "id": 9,
+          "name": "Dr. Sophia Robinson",
+          "Designation": "Endocrinologist",
+          "description": "Dr. Sophia Robinson provides top-notch care for hormone-related disorders at Atlanta Endocrinology.",
+          "email": "sophia.robinson@atlendocrinology.com",
+          "img": "https://example.com/image9.jpg",
+          "address": "35 Jesse Hill Jr Dr SE, Atlanta, GA 30303",
+          "phone": "404-555-7890",
+          "fee": 230
+        },
+        {
+          "id": 10,
+          "name": "Dr. Benjamin Anderson",
+          "Designation": "Ophthalmologist",
+          "description": "Dr. Benjamin Anderson specializes in vision care and surgery at Seattle Eye Clinic.",
+          "email": "benjamin.anderson@seattleeye.com",
+          "img": "https://images.pexels.com/photos/7659776/pexels-photo-7659776.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "address": "901 Boren Ave, Seattle, WA 98104",
+          "phone": "206-555-1234",
+          "fee": 200
+        },
+        {
+          "id": 11,
+          "name": "Dr. Elizabeth Moore",
+          "Designation": "Rheumatologist",
+          "description": "Dr. Elizabeth Moore provides treatment for arthritis and autoimmune diseases at Denver Rheumatology.",
+          "email": "elizabeth.moore@denverrheumatology.com",
+          "img": "https://images.pexels.com/photos/4225926/pexels-photo-4225926.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "address": "777 Bannock St, Denver, CO 80204",
+          "phone": "303-555-6789",
+          "fee": 240
+        },
+        {
+          "id": 12,
+          "name": "Dr. William Thomas",
+          "Designation": "Neurosurgeon",
+          "description": "Dr. William Thomas specializes in brain and spinal surgeries at Houston Neurosurgical Center.",
+          "email": "william.thomas@houstonneuro.com",
+          "img": "https://images.pexels.com/photos/14513021/pexels-photo-14513021.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "address": "7200 Cambridge St, Houston, TX 77030",
+          "phone": "713-555-1234",
+          "fee": 500
+        },
+        {
+          "id": 13,
+          "name": "Dr. Mia White",
+          "Designation": "Allergist",
+          "description": "Dr. Mia White offers specialized allergy and asthma care at San Diego Allergy Center.",
+          "email": "mia.white@sdallergy.com",
+          "img": "https://images.pexels.com/photos/4173248/pexels-photo-4173248.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "address": "3020 Children's Way, San Diego, CA 92123",
+          "phone": "858-555-5678",
+          "fee": 180
+        },
+        {
+          "id": 14,
+          "name": "Dr. Joshua Harris",
+          "Designation": "Psychiatrist",
+          "description": "Dr. Joshua Harris provides mental health care at Phoenix Psychiatry Associates.",
+          "email": "joshua.harris@phoenixpsych.com",
+          "img": "https://images.pexels.com/photos/6235010/pexels-photo-6235010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "address": "2601 E Roosevelt St, Phoenix, AZ 85008",
+          "phone": "602-555-7890",
+          "fee": 300
+        },
+        {
+          "id": 15,
+          "name": "Dr. Isabella Martinez",
+          "Designation": "Pathologist",
+          "description": "Dr. Isabella Martinez is an expert in diagnosing diseases through laboratory tests at Dallas Pathology Labs.",
+          "email": "isabella.martinez@dallaspathology.com",
+          "img": "https://images.pexels.com/photos/3884133/pexels-photo-3884133.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "address": "3500 Gaston Ave, Dallas, TX 75246",
+          "phone": "214-555-3456",
+          "fee": 200
+        },
+        {
+          "id": 16,
+          "name": "Dr. Ethan Martinez",
+          "Designation": "General Surgeon",
+          "description": "Dr. Ethan Martinez provides expert surgical care at Nashville Surgery Center.",
+          "email": "ethan.martinez@nashvillesurgery.com",
+          "img": "https://images.pexels.com/photos/6235241/pexels-photo-6235241.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "address": "2000 Church St, Nashville, TN 37203",
+          "phone": "615-555-4321",
+          "fee": 400
+        },
+        {
+          "id": 17,
+          "name": "Dr. Abigail Lewis",
+          "Designation": "Obstetrician",
+          "description": "Dr. Abigail Lewis specializes in pregnancy and childbirth care at St. Louis Women's Health.",
+          "email": "abigail.lewis@stlwomenshealth.com",
+          "img": "https://images.pexels.com/photos/3884133/pexels-photo-3884133.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "address": "1 Barnes Jewish Hospital Plaza, St. Louis, MO 63110",
+          "phone": "314-555-5678",
+          "fee": 350
+        },
+        {
+          "id": 18,
+          "name": "Dr. Noah Brown",
+          "Designation": "Dentist",
+          "description": "Dr. Noah Brown offers comprehensive dental care at Charlotte Family Dentistry.",
+          "email": "noah.brown@charlottefamilydental.com",
+          "img": "https://images.pexels.com/photos/7088533/pexels-photo-7088533.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "address": "1500 Blythe Blvd, Charlotte, NC 28203",
+          "phone": "704-555-1234",
+          "fee": 150
+        },
+        {
+          "id": 19,
+          "name": "Dr. Ava Walker",
+          "Designation": "Hematologist",
+          "description": "Dr. Ava Walker specializes in blood disorders and works at Cleveland Hematology Clinic.",
+          "email": "ava.walker@clevelandhematology.com",
+          "img": "https://images.pexels.com/photos/7195119/pexels-photo-7195119.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "address": "9500 Euclid Ave, Cleveland, OH 44195",
+          "phone": "216-555-6789",
+          "fee": 270
+        },
+        {
+          "id": 20,
+          "name": "Dr. Lucas Johnson",
+          "Designation": "Plastic Surgeon",
+          "description": "Dr. Lucas Johnson provides advanced cosmetic and reconstructive surgery at New Orleans Plastic Surgery.",
+          "email": "lucas.johnson@noplastic.com",
+          "img": "https://images.pexels.com/photos/4269933/pexels-photo-4269933.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "address": "1415 Tulane Ave, New Orleans, LA 70112",
+          "phone": "504-555-9012",
+          "fee": 450
+        }
+      ]
+      
+}
