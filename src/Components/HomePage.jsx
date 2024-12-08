@@ -1,10 +1,10 @@
 import React from 'react'
 import Navbar from '../Components/Navbar'
 import Home from '../Components/Home'
-const HomePage = () => {
+const HomePage = ({registeredEmail, setRegisteredEmail}) => {
   return (
     <>  
-     <Navbar/>
+     <Navbar registeredEmail={registeredEmail} setRegisteredEmail={setRegisteredEmail}/>
      <Home/>
     </>
   )

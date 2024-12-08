@@ -1,11 +1,11 @@
 import React from 'react'
 import Navbar from '../Components/Navbar'
 import AboutEl from '../Components/AboutEl'
-const About = () => {
+const About = ({registeredEmail, setRegisteredEmail}) => {
   return (
     <>
-        <Navbar />
-        <AboutEl/>
+        <Navbar  registeredEmail={registeredEmail} setRegisteredEmail={setRegisteredEmail}/>
+        <AboutEl />
     </>
   )
 }

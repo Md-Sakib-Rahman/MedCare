@@ -6,7 +6,7 @@ import FindDoc from "../Components/FindDoc";
 import Services from "../Components/Services";
 import Ambulance from "../Components/Ambulance";
 import Footer from "../Components/Footer";
-function OurServices() {
+function OurServices({registeredEmail, setRegisteredEmail}) {
     const [activeComponent, setActiveComponent] = useState("findDoctors");
     // const [topDocs ,setTopDocs] = useState([]);
     
@@ -18,7 +18,7 @@ function OurServices() {
   return (
     <>
         
-        <Navbar/>
+        <Navbar registeredEmail={registeredEmail} setRegisteredEmail={setRegisteredEmail}/>
         <div className='py-24 '>
 
             <h1 className='py-8 mx-10 text-left text-4xl text-sky-600 font-bold'>Services</h1>

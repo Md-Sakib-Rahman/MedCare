@@ -1,10 +1,10 @@
 import React from 'react';
-import Fade from 'react-reveal/Fade';
+
 import { Link } from "react-router-dom";
 const DocApmntCard = ({ docDetails }) => {
   return (
-    <Fade>
-    <div className='max-w-[400px] flex flex-col justify-between items-center p-4 mx-auto bg-gray-200 rounded-lg gap-3 shadow-custom'>
+    
+    <div className='max-w-[400px] flex flex-col justify-between items-center p-4 mx-auto bg-gray-200 rounded-lg gap-3 shadow-custom animate__animated animate__bounceIn'>
                     <div className='xl:w-64 xl:h-72 md:w-48 lg:w-52 md:h-64  overflow-hidden'>
                         <img className=' w-64 h-72 object-cover rounded-md' src={docDetails.img} alt="" />
                     </div>
@@ -27,7 +27,7 @@ const DocApmntCard = ({ docDetails }) => {
                         </div>
                     </div>
     </div>
-    </Fade>
+    
   )
 }
 
