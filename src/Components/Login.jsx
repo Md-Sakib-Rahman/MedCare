@@ -112,7 +112,7 @@ const Login = ({registeredEmail, setRegisteredEmail}) => {
                 
                 <div className=' mt-5 flex justify-center items-center gap-6'>
                 <button onClick={handleSignUpWithGoogle} className='p-4'><i class="fa-brands fa-google text-3xl text-blue-500"></i></button>
-                <i class="fa-brands fa-github text-3xl text-blue-500"></i>
+                
                 </div>
                 
                 
